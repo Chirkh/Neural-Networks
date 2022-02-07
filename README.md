@@ -6,3 +6,6 @@ The stock price prediction project was inspired by this article: https://www.sec
 
 ## Image recognition ##
 This notebook uses the cifar 10 dataset to train a convolutional network which is able to recognise images of certain objects. More information about the dataset can be found here: https://www.cs.toronto.edu/~kriz/cifar.html .
+
+
+My Kaggle : https://www.kaggle.com/chirayukhatri
